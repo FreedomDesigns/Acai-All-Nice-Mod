@@ -1,8 +1,6 @@
 Acai-All-Nice-Mod
 =================
-
 A All Nice Mod For Mw2 Dedicated Server.
-=========================================
 
 ChangeLog V1.0
 ---------------
